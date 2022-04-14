@@ -1,12 +1,12 @@
 # Web3-wave-example
 an mini project from buildspace for a web3 app
 
-mkdir my-wave-portal
-cd my-wave-portal
-npm init -y
-npm install --save-dev hardhat
-
-npx hardhat        if you have yarn installed along with npm, you may get errors such as npm ERR! could not determine executable to run. In this case, you can do "" yarn add hardhat ""
+## the first steps
+* mkdir name-of-the-project : make a folder
+* cd name-of-the-project : enter in the folder
+* npm init -y : init node
+* npm install --save-dev hardhat : install hardhat for blockchain projects
+* npx hardhat : start the hardhat project ""if you have yarn installed along with npm, you may get errors such as npm ERR! could not determine executable to run. In this case, you can do "" yarn add hardhat "" ""
 
 npm install --save-dev @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers ethers
 

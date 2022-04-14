@@ -32,6 +32,9 @@ npx hardhat accounts
 0xdD2FD4581271e230360230F9337D5c0430Bf44C0
 0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199
 
-npx hardhat compile
+npx hardhat compile : compile the app
 
-npx hardhat test
+npx hardhat test : test the app
+
+
+npx hardhat node : runing the local blockchain network of hardhat 

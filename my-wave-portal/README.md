@@ -38,3 +38,14 @@ npx hardhat compile : compile the app
 npx hardhat test : test the app
 
 npx hardhat node : runing the local blockchain network of hardhat 
+
+alchemy:
+
+API KEY
+hffFdENhQ3VfRuRVTjqHBIJlc6SYIOFV
+
+HTTP
+https://eth-rinkeby.alchemyapi.io/v2/hffFdENhQ3VfRuRVTjqHBIJlc6SYIOFV
+
+WEBSOCKETS
+wss://eth-rinkeby.alchemyapi.io/v2/hffFdENhQ3VfRuRVTjqHBIJlc6SYIOFV

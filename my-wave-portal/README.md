@@ -49,3 +49,5 @@ https://eth-rinkeby.alchemyapi.io/v2/hffFdENhQ3VfRuRVTjqHBIJlc6SYIOFV
 
 WEBSOCKETS
 wss://eth-rinkeby.alchemyapi.io/v2/hffFdENhQ3VfRuRVTjqHBIJlc6SYIOFV
+
+ANOTHER THINGS

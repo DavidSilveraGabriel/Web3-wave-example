@@ -50,7 +50,7 @@ https://eth-rinkeby.alchemyapi.io/v2/hffFdENhQ3VfRuRVTjqHBIJlc6SYIOFV
 WEBSOCKETS
 wss://eth-rinkeby.alchemyapi.io/v2/hffFdENhQ3VfRuRVTjqHBIJlc6SYIOFV
 
-ANOTHER THINGS
+ANOTHER THINGS IMPORTANTS FOR THE DEPLOYMENT OF THE WEB3 APP
 
 https://app.mycrypto.com/dashboard
 

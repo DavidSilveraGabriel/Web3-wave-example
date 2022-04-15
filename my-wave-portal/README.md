@@ -39,7 +39,7 @@ npx hardhat test : test the app
 
 npx hardhat node : runing the local blockchain network of hardhat 
 
-alchemy:
+alchemy: a web plataform for build Dapps
 
 API KEY
 hffFdENhQ3VfRuRVTjqHBIJlc6SYIOFV

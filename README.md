@@ -8,9 +8,10 @@ an mini project from buildspace for a web3 app
 * npm install --save-dev hardhat : install hardhat for blockchain projects
 * npx hardhat : start the hardhat project ""if you have yarn installed along with npm, you may get errors such as npm ERR! could not determine executable to run. In this case, you can do "" yarn add hardhat "" ""
 
+---- dependencias necesarias ----
 npm install --save-dev @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers ethers
 
-npx hardhat accounts
+npx hardhat accounts: genera direcciones de wallets
 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
 0x70997970C51812dc3A010C7d01b50e0d17dc79C8
 0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC
@@ -35,6 +36,5 @@ npx hardhat accounts
 npx hardhat compile : compile the app
 
 npx hardhat test : test the app
-
 
 npx hardhat node : runing the local blockchain network of hardhat 
